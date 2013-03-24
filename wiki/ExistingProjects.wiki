@@ -3,9 +3,21 @@
 
 == Voice Related ==
 
+[http://www.fon.hum.uva.nl/praat/ Praat] - Doing phonetics by computer. Seems to nearly have it all...
+
 [http://liarliar.sourceforge.net/ LiarLiar] - Stress detection tool
 
 <br/><br/>
 == Audio ==
 
 [http://sox.sourceforge.net/ Sox] - The Swiss Army knife of sound processing programs
+
+[http://sourceforge.net/projects/wavesurfer/ Wave Surfer]
+
+[http://www.fftw.org FFTW] - Stable open source FFT library
+
+[http://www.speex.org/ Speex] - A free codec for speech
+
+== Info ==
+
+[http://www.speech.cs.cmu.edu/comp.speech/ CMU Speech FAQ]
