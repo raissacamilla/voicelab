@@ -9,6 +9,8 @@
 
 [http://en.wikipedia.org/wiki/GNU_LilyPond GNU LilyPond] - Music engraver
 
+[http://marsyasweb.appspot.com/about/overview/ Marsyas]
+
 <br/>
 == Voice Related ==
 
@@ -35,3 +37,7 @@
 [http://stackoverflow.com/questions/8284943/identifying-segments-when-a-person-is-speaking Using SHOUT for speech detection]
 
 [http://www.charm.rhul.ac.uk/analysing/p9_0_1.html Research related to Sonic Visualiser]
+
+<br/>
+== FrameWorks ==
+[http://clam-project.org/ Clam project]
