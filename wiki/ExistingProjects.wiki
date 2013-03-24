@@ -1,0 +1,11 @@
+#labels Featured
+#List of existing voice analysis project
+
+== Voice Related ==
+
+[http://liarliar.sourceforge.net/ LiarLiar] - Stress detection tool
+
+
+== Audio ==
+
+[http://sox.sourceforge.net/ Sox] - The Swiss Army knife of sound processing programs
