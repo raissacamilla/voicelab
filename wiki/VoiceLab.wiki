@@ -1,0 +1,5 @@
+#summary About VoiceLab
+
+VoiceLab intends to be an open source tool (or set of tools) for analysis of human singing, using existing open source libraries and new code for VoiceLab's specific needs.
+
+If you'd like to join the research, (and later the coding), please contact us at: voicelabproject -AT- gmail.com .
