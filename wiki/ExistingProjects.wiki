@@ -30,6 +30,10 @@
 [http://www.speex.org/ Speex] - A free codec for speech
 
 <br/>
+== FrameWorks ==
+[http://clam-project.org/ Clam project]
+
+<br/>
 == Further Info ==
 
 [http://www.speech.cs.cmu.edu/comp.speech/ CMU Speech FAQ]
@@ -38,6 +42,4 @@
 
 [http://www.charm.rhul.ac.uk/analysing/p9_0_1.html Research related to Sonic Visualiser]
 
-<br/>
-== FrameWorks ==
-[http://clam-project.org/ Clam project]
+[http://webhome.cs.uvic.ca/~gtzan/work/projects/pastc.html]
