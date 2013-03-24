@@ -1,13 +1,20 @@
 #summary List of existing voice analysis project
 #labels Featured
 
+== Music ==
+
+[http://www.sonicvisualiser.org/ Sonic Visualiser] - Industry used software for music editing
+
+[http://www.vamp-plugins.org/download.html Plugins for Sonic Visualiser]
+
+<br/>
 == Voice Related ==
 
 [http://www.fon.hum.uva.nl/praat/ Praat] - Doing phonetics by computer. Seems to nearly have it all...
 
 [http://liarliar.sourceforge.net/ LiarLiar] - Stress detection tool
 
-<br/><br/>
+<br/>
 == Audio ==
 
 [http://sox.sourceforge.net/ Sox] - The Swiss Army knife of sound processing programs
@@ -18,7 +25,8 @@
 
 [http://www.speex.org/ Speex] - A free codec for speech
 
-== Info ==
+<br/>
+== Further Info ==
 
 [http://www.speech.cs.cmu.edu/comp.speech/ CMU Speech FAQ]
 
