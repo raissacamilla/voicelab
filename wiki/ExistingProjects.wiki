@@ -7,9 +7,12 @@
 
 [http://www.vamp-plugins.org/download.html Plugins for Sonic Visualiser]
 
-[http://en.wikipedia.org/wiki/GNU_LilyPond GNU LilyPond] - Music engraver
+[https://code.google.com/p/music21/]
 
 [http://marsyasweb.appspot.com/about/overview/ Marsyas]
+
+[http://en.wikipedia.org/wiki/GNU_LilyPond GNU LilyPond] - Music engraver
+
 
 <br/>
 == Voice Related ==
