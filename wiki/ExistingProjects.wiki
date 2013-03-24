@@ -5,9 +5,9 @@
 
 [http://www.sonicvisualiser.org/ Sonic Visualiser] - Industry used software for music editing
 
-[http://camil.music.illinois.edu/software/harmonia/mtw.html MTW] - Part of the bigger [http://camil.music.illinois.edu/software/harmonia/ Harmonia] project
+[http://www.vamp-plugins.org/download.html VAMP] - Plugins for Sonic Visualiser
 
-[http://www.vamp-plugins.org/download.html Plugins for Sonic Visualiser]
+[http://camil.music.illinois.edu/software/harmonia/mtw.html MTW] - Part of the bigger [http://camil.music.illinois.edu/software/harmonia/ Harmonia] project
 
 [https://code.google.com/p/music21/]
 
