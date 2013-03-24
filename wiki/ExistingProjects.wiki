@@ -21,3 +21,5 @@
 == Info ==
 
 [http://www.speech.cs.cmu.edu/comp.speech/ CMU Speech FAQ]
+
+[http://stackoverflow.com/questions/8284943/identifying-segments-when-a-person-is-speaking Using SHOUT for speech detection]
