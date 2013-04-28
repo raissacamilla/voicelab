@@ -1,6 +1,13 @@
 #summary List of existing voice analysis project
 #labels Featured
 
+== AutoTune ==
+
+Proprietary - [http://www.antarestech.com/products/auto-tune-evo.shtml Autotune]
+
+
+Open source plugin - [http://tombaran.info/autotalent.html Autotalent]
+
 == Music ==
 
 [http://www.sonicvisualiser.org/ Sonic Visualiser] - Industry used software for music editing
