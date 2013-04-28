@@ -5,8 +5,9 @@
 
 Proprietary - [http://www.antarestech.com/products/auto-tune-evo.shtml Autotune]
 
+Open source LADSPA plugin - [http://tombaran.info/autotalent.html Autotalent]
 
-Open source plugin - [http://tombaran.info/autotalent.html Autotalent]
+[https://code.google.com/p/talentledhack/ LV2 Version for Autotalent]
 
 == Music ==
 
@@ -47,6 +48,8 @@ Open source plugin - [http://tombaran.info/autotalent.html Autotalent]
 
 <br/>
 == Further Info ==
+
+[http://stackoverflow.com/questions/3141927/algorithms-for-determining-the-key-of-an-audio-sample]
 
 [http://www.isophonics.net/sawa/ Online VAMP Demo]
 
